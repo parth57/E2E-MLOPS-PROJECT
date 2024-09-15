@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: First_E2E
+Version: 0.0.1
+Author: Parth
+Author-email: parthagarwal57@gmail.com
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
